@@ -1,4 +1,25 @@
-# Meta标签中的format-detection
+# Meta: format-detection
+
+### meta标签
+
+`<meta>`元素可提供有关页面的元信息（meta-information）, 比如针对搜索引擎和更新频度的描述和关键词。
+
+`<meta>`标签永远位于head元素的头部，在html中没有结束标签。
+
+必需的属性是：content。
+
+可选的属性是：http-equiv、name、scehme。
+
+
+
+参考链接：
+
+* [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name){:target="_blank"}
+* [https://wiki.whatwg.org/wiki/MetaExtensions](https://wiki.whatwg.org/wiki/MetaExtensions){:target="_blank"}
+
+
+
+### format-detection
 
 format-detection —— 格式检测，用来检测html里的一些格式，主要有以下几个设置： 
 
@@ -11,6 +32,16 @@ format-detection —— 格式检测，用来检测html里的一些格式，主�
 或者直接写成
 
 * name=”format-detection” content=”telephone=no,email=no,adress=no”
+
+
+
+### 常见设置
+
+```
+<meta name="format-detection" content="telephone=no">
+```
+
+
 
 
 
