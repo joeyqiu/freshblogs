@@ -2,7 +2,7 @@
 
 目前video标签，在ios手机上点击的时候是会自动进入全屏模式的，android上则不会。ios上可以通过添加如下属性来禁止。
 
-```
+```html
 <video className="video-item"
 							 ref={this.video}
 							 src={videoUrl}
@@ -13,13 +13,11 @@
 							 webkit-playsinline="true"
 							 x5-playsinline="true"
 							 playsinline="true"/>
-							 
-	webkit-playsinline和playsinline属性
-	
-	x5-playsinline=""，用于微信浏览器
 ```
 
+webkit-playsinline和playsinline属性。
 
+x5-playsinline=""，用于微信浏览器。
 
 ## 遇到的video问题
 
@@ -31,7 +29,7 @@
 
 解决：通过visibilitychange的监听，来获取切换隐藏时的播放进度
 
-```
+```javascript
 addVisibilityListener() {
 		document.addEventListener('visibilitychange',()=>{
       try {
@@ -59,7 +57,7 @@ addVisibilityListener() {
 
 但是android上也有切换后台的问题，在上述代码的情况下，再加上全屏切换的检测，，，
 
-```
+```javascript
 
 // android下才添加监听全屏切换问题
 	addFullScreenListener() {

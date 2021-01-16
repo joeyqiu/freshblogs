@@ -13,8 +13,8 @@
 
 ### 次要问题
 
-* [Meta标签中的format-detection](./meta标签中的format-detection.md){:target="_blank"}
+* [Meta标签中的format-detection](./format-detection.md){:target="_blank"}
 * [audio相关](./audio相关.md){:target="_blank"}
 * [lang属性](./lang属性.md){:target="_blank"}
-* [解决行内块元素（inline-block）之间的空格或空白问题](./解决行内块元素（inline-block）之间的空格或空白问题.md){:target="_blank"}
+* [解决行内块元素（inline-block）之间的空格或空白问题](./解决行内块元素之间的空格或空白问题.md){:target="_blank"}
 
