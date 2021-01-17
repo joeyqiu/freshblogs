@@ -4,7 +4,8 @@
 
 
 
-```
+```html
+<style type="text/css">
 .ele-loading {
   display: inline-block;
   width: 200px;
@@ -23,6 +24,7 @@
       background-position-x: 100%;
     }
 }
+</style>
 
 <i class="ele-loading" />
 ```
@@ -35,7 +37,7 @@
 
 #### 小鸟动画
 
-```
+```css
 .loading-bird {
   display: inline-block;
   width: 330px;

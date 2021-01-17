@@ -1,6 +1,10 @@
 ## android上文字偏上
 
-参考网址：https://rprns.me/2018/07/27/关于%20Android%20下%20line-height%20文字垂直居中偏移的思考/?nsukey=viim2gyL1g3OEY2gxUeXs4hs7WGH93U7OKGjAWQiIAdE7QP%2FkOidiVlRx5ipQ1jeM6HO60j8mOyEAltHX%2BS2B1NZBWPAL30qUGqrfJ0%2Be0BIm0o1OwjbQUkOY6v9VFb4968GXeRtX0fQHTEykSQWm33W%2FDFjNzeAAysOnZfv9LeISi%2B5xRxwXWZs88UUdppzPNXFBgpMUTj0g5HHdDlNfQ%3D%3D
+参考网址：
+
+```html
+https://rprns.me/2018/07/27/关于%20Android%20下%20line-height%20文字垂直居中偏移的思考/?nsukey=viim2gyL1g3OEY2gxUeXs4hs7WGH93U7OKGjAWQiIAdE7QP%2FkOidiVlRx5ipQ1jeM6HO60j8mOyEAltHX%2BS2B1NZBWPAL30qUGqrfJ0%2Be0BIm0o1OwjbQUkOY6v9VFb4968GXeRtX0fQHTEykSQWm33W%2FDFjNzeAAysOnZfv9LeISi%2B5xRxwXWZs88UUdppzPNXFBgpMUTj0g5HHdDlNfQ%3D%3D
+```
 
 
 
@@ -10,7 +14,7 @@
 
 ### 高版本的手机上
 
-```
+```css
 .text-center {
   line-height: normal;
   display: inline-flex;

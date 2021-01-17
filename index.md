@@ -8,7 +8,7 @@ blog搭建的学习地址： https://docs.github.com/en/free-pro-team@latest/git
 
 * [HTML](./html/index){:target="_blank"}
 * [CSS](./css/index){:target="_blank"}
-
+* [JavaScript](./javascript/index){:target="_blank"}
 
 
 ## 学习网站
@@ -16,9 +16,7 @@ blog搭建的学习地址： https://docs.github.com/en/free-pro-team@latest/git
 Web前端导航：[http://www.alloyteam.com/nav/](http://www.alloyteam.com/nav/){:target="_blank"}
 
 
-
 * MDN: [https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/){:target="_blank"}
-
 * W3C: [https://www.w3.org/standards/](https://www.w3.org/standards/){:target="_blank"}
 
 
@@ -44,6 +42,7 @@ Web前端导航：[http://www.alloyteam.com/nav/](http://www.alloyteam.com/nav/)
 * create-react-app: [https://create-react-app.dev/](https://create-react-app.dev/){:target="_blank"}
 * Vue: [https://cn.vuejs.org/](https://cn.vuejs.org/){:target="_blank"}
 * Electron: [https://electronjs.org/](https://electronjs.org/){:target="_blank"}
+
 
 ### B端组件库
 

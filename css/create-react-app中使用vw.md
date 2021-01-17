@@ -8,7 +8,7 @@
 
 官网地址：https://github.com/facebook/create-react-app
 
-```
+```shell
 npx create-react-app my-app
 ```
 
@@ -28,7 +28,7 @@ npx create-react-app my-app
 
 在该目录下，依次按照如下插件
 
-````
+````json
 "postcss-aspect-ratio-mini": "0.0.2",
 "postcss-cssnext": "^3.1.0",
 "postcss-px-to-viewport": "0.0.3",
@@ -44,7 +44,7 @@ npx create-react-app my-app
 
 然后在`config/webpack.config.dev.js`中做下修改配置
 
-```
+```javascript
 {
                 loader: require.resolve('postcss-loader'),
                 options: {
@@ -106,7 +106,7 @@ npx create-react-app my-app
 
 在页面中引入buggyfill.hacks.js文件，然后在body底部添加下面的代码
 
-```
+```html
 <script> 
 	window.onload = function () {
 		window.viewportUnitsBuggyfill.init({
@@ -124,17 +124,18 @@ npx create-react-app my-app
 
 还可以按照上述方法，配置下less的处理，依次安装
 
-```
+```json
 "less": "^3.8.0",
 "less-loader": "^4.1.0",
 ```
 
 然后在配置文件中添加less的匹配`test: /\.css|less$/,`，在添加less-loader
 
-```
+```javascript
 {
 	loader: require.resolve('less-loader')
 }
 ```
 
 放在`css|less`loader的最后就行
+
