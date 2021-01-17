@@ -19,6 +19,8 @@ webkit-playsinline和playsinline属性。
 
 x5-playsinline=""，用于微信浏览器。
 
+
+
 ## 遇到的video问题
 
 ### ios上播放
