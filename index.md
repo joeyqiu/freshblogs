@@ -11,6 +11,14 @@ blog搭建的学习地址： https://docs.github.com/en/free-pro-team@latest/git
 * [JavaScript](./javascript/index){:target="_blank"}
 
 
+
+### 工程化
+
+* [Pretiier](./linter/prettier/index){:target="_blank"}
+
+
+
+
 ## 学习网站
 
 Web前端导航：[http://www.alloyteam.com/nav/](http://www.alloyteam.com/nav/){:target="_blank"}
