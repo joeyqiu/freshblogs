@@ -1,25 +1,23 @@
 GitHub： https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages
 
-目前blog使用markdown来编写，markdown的语法可以参考：http://markdown.p2hp.com/index.html
+目前blog使用markdown来编写，markdown的语法可以参考：[http://markdown.p2hp.com/index.html](http://markdown.p2hp.com/index.html){:target="_blank"}
 
 
 
 ### 记录
 
-* [HTML](./html/index){:target="_blank"}
-* [CSS](./css/index){:target="_blank"}
-* [JavaScript](./javascript/index){:target="_blank"}
-
-* React
-
-* [Pretiier](./linter/prettier/index){:target="_blank"}
-* [Git](./git/index){:target="_blank"}
+	* [HTML](./html/index){:target="_blank"}
+	* [CSS](./css/index){:target="_blank"}
+	* [JavaScript](./javascript/index){:target="_blank"}
+	* React
+	* [Pretiier](./linter/prettier/index){:target="_blank"}
+	* [Git](./git/index){:target="_blank"}
 
 
 
 ### 常用网站
 
-| 名称             | 地址                                                         |
+| 名称             | URL                                                          |
 | ---------------- | ------------------------------------------------------------ |
 | 手册             |                                                              |
 | Web前端导航      | [http://www.alloyteam.com/nav/](http://www.alloyteam.com/nav/){:target="_blank"} |
@@ -41,7 +39,7 @@ GitHub： https://docs.github.com/en/free-pro-team@latest/github/working-with-gi
 | B端组件          |                                                              |
 | AntDesign        | [https://ant.design/index-cn](https://ant.design/index-cn){:target="_blank"} |
 | ViewUI/iView     | [https://iviewui.com/](https://iviewui.com/){:target="_blank"} |
-| ElementUI        | [https://element.eleme.io/](https://element.eleme.cn/#/zh-CN){:target="_blank"} |
+| ElementUI        | [https://element.eleme.io/](https://element-plus.gitee.io/#/zh-CN){:target="_blank"} |
 |                  |                                                              |
 | 移动端组件库     |                                                              |
 | 支付宝移动组件库 | [https://mobile.ant.design/kitchen-sink/](https://mobile.ant.design/kitchen-sink/){:target="_blank"} |
