@@ -6,12 +6,12 @@ GitHub： https://docs.github.com/en/free-pro-team@latest/github/working-with-gi
 
 ### 记录
 
-	* [HTML](./html/index){:target="_blank"}
-	* [CSS](./css/index){:target="_blank"}
-	* [JavaScript](./javascript/index){:target="_blank"}
-	* React
-	* [Pretiier](./linter/prettier/index){:target="_blank"}
-	* [Git](./git/index){:target="_blank"}
+* [HTML](./html/index){:target="_blank"}
+* [CSS](./css/index){:target="_blank"}
+* [JavaScript](./javascript/index){:target="_blank"}
+* React
+* [Pretiier](./linter/prettier/index){:target="_blank"}
+* [Git](./git/index){:target="_blank"}
 
 
 
