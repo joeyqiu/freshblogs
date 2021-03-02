@@ -16,8 +16,8 @@
 
 [常见优化指南](./常见优化指南.md){:target="_blank"}
 
-* [http2下的优化建议](./性能优化/Performance Best Practices in the HTTP/2 Era.md){:target="_blank"}
-* [一个网络请求的生命周期](./性能优化/The life and timings of a network request.md){:target="_blank"}
+* [http2下的优化建议](./性能优化/Performance_Best Practices_in_the_HTTP/2_Era.md){:target="_blank"}
+* [一个网络请求的生命周期](./性能优化/一个网络请求的生命周期.md){:target="_blank"}
 * [浏览器缓存机制介绍与缓存策略剖析](./浏览器缓存机制介绍与缓存策略剖析.md){:target="_blank"}
 * [图片格式优化](./图片格式优化.md){:target="_blank"}
 * [DNS预获取](./DNS预获取.md){:target="_blank"}
