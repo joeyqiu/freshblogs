@@ -35,3 +35,21 @@
 * [ios8下overflow滚动无效](./ios8下overflow滚动无效.md){:target="_blank"}
 * [p标签固定宽带内容不换行](./p标签固定宽带内容不换行.md){:target="_blank"}
 * [span元素底部对齐](./span元素底部对齐.md){:target="_blank"}
+
+
+
+### Animations
+
+从google开发者网站上拷贝的
+
+* [Animating Between Views](./google/animations/AnimatingBetweenViews.md)
+* [Animating Modal Views](./google/animations/AnimatingModalViews.md)
+* [Animations and Performance](./google/animations/AnimationsandPerformance.md)
+* [Animations](./google/animations/Animations.md)
+* [Asymmetric animation timing](./google/animations/Asymmetricanimationtiming.md)
+* [Choosing the Right Easing](./google/animations/ChoosingtheRightEasing.md)
+* [CSS Versus JavaScript Animations](./google/animations/CSSVersusJavaScriptAnimations.md)
+* [Custom Easing](./google/animations/CustomEasing.md)
+* [The Basics of Easing](./google/animations/TheBasicsofEasing.md)
+* [总结](./google/animations/总结.md)
+
