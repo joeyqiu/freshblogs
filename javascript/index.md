@@ -15,4 +15,5 @@
 * [常用正则表达式收集](./常用正则表达式收集.md){:target="_blank"}
 * [跨域资源共享CORS](./跨域资源共享CORS.md)
 * [StickyFooter: 粘底导航](./StickyFooter.md){:target="_blank"}
+* [前端模块化](./前端模块化.md){:target="_blank"}
 
