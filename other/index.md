@@ -6,6 +6,12 @@
 
 
 
+### Other
+
+* [常见ajax_code](./ajax_code.md){:target="_blank"}
+
+
+
 ### 性能优化
 
 [常见优化指南](./常见优化指南.md){:target="_blank"}
