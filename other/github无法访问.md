@@ -20,7 +20,7 @@ Mac电脑：
 
 2. 查找可用配置并修改
 
-获取github.com在天朝内可用的dns域名，打开： http://tool.chinaz.com/dns?type=1&host=www.github.com&ip= 网站，获取TTL最小的值：
+获取github.com在天朝内可用的dns域名，打开： `http://tool.chinaz.com/dns?type=1&host=www.github.com&ip=` 网站，获取TTL最小的值：
 
 ![](./imgs/github_host.png)
 
