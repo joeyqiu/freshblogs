@@ -4,20 +4,20 @@
 
 ```html
 <video className="video-item"
-							 ref={this.video}
-							 src={videoUrl}
-							 preload="meta"
-							 width="100%"
-							 height="100%"
-							 controls="controls"
-							 webkit-playsinline="true"
-							 x5-playsinline="true"
-							 playsinline="true"/>
+       ref={this.video}
+       src={videoUrl}
+       preload="meta"
+       width="100%"
+       height="100%"
+       controls="controls"
+       webkit-playsinline="true"
+       x5-playsinline="true"
+       playsinline="true"/>
 ```
 
-webkit-playsinline和playsinline属性。
+`webkit-playsinline`和`playsinline`属性。
 
-x5-playsinline=""，用于微信浏览器。
+`x5-playsinline=""`，用于微信浏览器。
 
 
 
@@ -25,9 +25,7 @@ x5-playsinline=""，用于微信浏览器。
 
 ### ios上播放
 
-播放的时候，切换到后台，会自动暂停，并且点击后播放，会直接从头开始播放
-
-
+播放的时候，切换到后台，会自动暂停，并且点击后播放，会直接从头开始播放。
 
 解决：通过visibilitychange的监听，来获取切换隐藏时的播放进度
 
