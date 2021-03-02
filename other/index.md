@@ -39,4 +39,11 @@
 从google开发者网站上找到的一些文档
 
 * [Get Started With Analyzing Runtime Performance](./google/performance/运行时性能分析.md){:target="_blank"}
+* [优化JavaScript执行](./google/performance/优化JavaScript执行.md){:target="_blank"}
+* [缩小样式计算的范围并降低其复杂性](./google/performance/缩小样式计算的范围并降低其复杂性.md){:target="_blank"}
+* [渲染性能](./google/performance/渲染性能.md){:target="_blank"}
+* [简化绘制复杂度](./google/performance/简化绘制复杂度.md){:target="_blank"}
+* [坚持仅合成器的属性和管理层计数](./google/performance/坚持仅合成器的属性和管理层计数.md){:target="_blank"}
+* [避免复杂的布局和布局抖动](./google/performance/避免复杂的布局和布局抖动.md){:target="_blank"}
+* [使输入处理程序去除抖动](./google/performance/使输入处理程序去除抖动.md){:target="_blank"}
 
