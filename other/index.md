@@ -46,10 +46,3 @@
 * [坚持仅合成器的属性和管理层计数](./google/performance/坚持仅合成器的属性和管理层计数.md){:target="_blank"}
 * [避免复杂的布局和布局抖动](./google/performance/避免复杂的布局和布局抖动.md){:target="_blank"}
 * [使输入处理程序去除抖动](./google/performance/使输入处理程序去除抖动.md){:target="_blank"}
-
-#### 使用webpack来优化（比较旧的知识点了）
-
-* [Decrease Front-end Size](./google/减小打包大小)
-* [Make use of long-term caching](./google/使用缓存.md)
-* [Monitor and analyze the app](./google/监听和分析.md)
-* [总结](./google/Web_Performance_Optimization_with_webpack/Conclusion.md)
