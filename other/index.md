@@ -1,14 +1,14 @@
 ## 常见问题
 
-### Github
-
-* [github可以ping通，但是无法浏览器打开](./github无法访问.md){:target="_blank"}
-
-
-
 ### Other
 
 * [常见ajax_code](./ajax_code.md){:target="_blank"}
+
+
+
+### Github
+
+* [github可以ping通，但是无法浏览器打开](./github无法访问.md){:target="_blank"}
 
 
 
