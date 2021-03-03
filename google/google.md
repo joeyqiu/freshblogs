@@ -38,3 +38,11 @@
 * [Make use of long-term caching](./Web_Performance_Optimization_with_webpack/使用缓存.md)
 * [Monitor and analyze the app](./Web_Performance_Optimization_with_webpack/监听和分析.md)
 * [总结](./Web_Performance_Optimization_with_webpack/Conclusion.md)
+
+
+
+### Optimizing_Javascript
+
+* [Reduce JavaScript Payloads with Code Splitting](./Optimizing_Javascript/使用代码拆分减少JavaScript负载.md){:target="_blank"}
+* [Reduce JavaScript Payloads with Tree Shaking](./Optimizing_Javascript/使用TreeShaking.md){:target="_blank"}
+
