@@ -7,11 +7,10 @@ markdown的语法可以参考：[http://markdown.p2hp.com/index.html](http://mar
 * [HTML](./html/html.md){:target="_blank"}
 * [CSS](./css/css.md){:target="_blank"}
 * [JavaScript](./javascript/javascript.md){:target="_blank"}
-* React
-* [Pretiier](./linter/prettier/index){:target="_blank"}
+* [工程化](./工程化/index.md){:target="_blank"}
+* [前端库](./前端库/index.md){:target="_blank"}
 * [Git](./git/git.md){:target="_blank"}
 * [Server](./server/server.md){:target="_blank"}
-* [Webpack](./webpack/webpack.md){:target="_blank"}
 * [H5games](./games/games.md){:target="_blank"}
 * [Other](./other/other.md){:target="_blank"}
 * [google](./google/google.md){:target="_blank"}

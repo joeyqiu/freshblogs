@@ -3,6 +3,7 @@
 * [服务端常用命令](./服务端常用命令.md){:target="_blank"}
 * [配置阿里云服务器](./配置阿里云服务器.md){:target="_blank"}
 * [pm2启动服务](./pm2启动服务.md){:target="_blank"}
+* [linux常用命令](./linux常用命令.md){:target="_blank"}
 
 
 
