@@ -12,6 +12,7 @@ markdown的语法可以参考：[http://markdown.p2hp.com/index.html](http://mar
 * [Git](./git/git.md){:target="_blank"}
 * [Server](./server/server.md){:target="_blank"}
 * [Webpack](./webpack/webpack.md){:target="_blank"}
+* [H5games](./games/games.md){:target="_blank"}
 * [Other](./other/other.md){:target="_blank"}
 * [google](./google/google.md){:target="_blank"}
 
