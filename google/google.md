@@ -70,3 +70,19 @@
 * [Offline UX Considerations](./Never_Load_the_Same_Resource_Twice/Offline_UX_Considerations.md){:target="_blank"}
 * [离线指南](./Never_Load_the_Same_Resource_Twice/离线指南.md){:target="_blank"}
 
+
+
+### Optimizing Content Efficiency
+
+* [Adapting to Users with Client Hints](./Optimizing_Content_Efficiency/ClientHints技术.md){:target="_blank"}
+* [Automating image optimization](./Optimizing_Content_Efficiency/自动优化图像.md){:target="_blank"}
+* [Delivering Fast and Light Applications with Save-Data](./Optimizing_Content_Efficiency/传递缓存的数据.md){:target="_blank"}
+* [Eliminating Unnecessary Downloads](./Optimizing_Content_Efficiency/避免不必要的下载.md){:target="_blank"}
+* [HTTP Caching](./Optimizing_Content_Efficiency/HTTP缓存.md){:target="_blank"}
+* [Image Optimization](./Optimizing_Content_Efficiency/图像优化.md){:target="_blank"}
+* [JavaScript Start-up Optimization](./Optimizing_Content_Efficiency/JS启动优化.md){:target="_blank"}
+* [Loading Third-Party JavaScript](./Optimizing_Content_Efficiency/载入第三方库.md){:target="_blank"}
+* [Optimizing Content Efficiency](./Optimizing_Content_Efficiency/Optimizing_Content_Efficiency.md){:target="_blank"}
+* [Optimizing Encoding and Transfer Size of Text-Based Assets](./Optimizing_Content_Efficiency/优化基于文本的资产的编码和传送大小.md){:target="_blank"}
+* [Replace Animated GIFs with Video](./Optimizing_Content_Efficiency/使用动图代替视频.md){:target="_blank"}
+* [Web Font Optimization](./Optimizing_Content_Efficiency/Web字体优化.md){:target="_blank"}
