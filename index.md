@@ -1,6 +1,4 @@
-GitHub： https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages
-
-目前blog使用markdown来编写，markdown的语法可以参考：[http://markdown.p2hp.com/index.html](http://markdown.p2hp.com/index.html){:target="_blank"}
+markdown的语法可以参考：[http://markdown.p2hp.com/index.html](http://markdown.p2hp.com/index.html){:target="_blank"}
 
 
 

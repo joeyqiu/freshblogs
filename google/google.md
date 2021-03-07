@@ -46,3 +46,27 @@
 * [Reduce JavaScript Payloads with Code Splitting](./Optimizing_Javascript/使用代码拆分减少JavaScript负载.md){:target="_blank"}
 * [Reduce JavaScript Payloads with Tree Shaking](./Optimizing_Javascript/使用TreeShaking.md){:target="_blank"}
 
+
+
+### Loading Performance Started
+
+* [Graphical Content](./loading_performance_started/图片内容.md){:target="_blank"}
+* [HTTP Caching](./loading_performance_started/HTTP缓存.md){:target="_blank"}
+* [HTTP Requests](./loading_performance_started/HTTP请求.md){:target="_blank"}
+* [Measuring Performance](./loading_performance_started/性能测量.md){:target="_blank"}
+* [Text Content](./loading_performance_started/文本内容.md){:target="_blank"}
+* [总结和Demo](./loading_performance_started/总结和Demo.md){:target="_blank"}
+
+
+
+### Lazy loading resources
+
+* [Lazy Loading Images and Video](./Lazy_loading_resources/懒加载图片和视频.md){:target="_blank"}
+
+
+
+### Never Load the Same Resource Twice
+
+* [Offline UX Considerations](./Never_Load_the_Same_Resource_Twice/Offline_UX_Considerations.md){:target="_blank"}
+* [离线指南](./Never_Load_the_Same_Resource_Twice/离线指南.md){:target="_blank"}
+
