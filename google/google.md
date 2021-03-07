@@ -86,3 +86,30 @@
 * [Optimizing Encoding and Transfer Size of Text-Based Assets](./Optimizing_Content_Efficiency/优化基于文本的资产的编码和传送大小.md){:target="_blank"}
 * [Replace Animated GIFs with Video](./Optimizing_Content_Efficiency/使用动图代替视频.md){:target="_blank"}
 * [Web Font Optimization](./Optimizing_Content_Efficiency/Web字体优化.md){:target="_blank"}
+
+
+
+### Order Loading Thoughtfully
+
+* [Introduction to HTTP2](./Order_Loading_Thoughtfully/HTTP2简介.md){:target="_blank"}
+* [Adding Interactivity with JavaScript](./Order_Loading_Thoughtfully/Critical_Rendering_Path/使用 JavaScript 添加交互.md){:target="_blank"}
+* [Analyzing Critical Rendering Path Performance](./Order_Loading_Thoughtfully/Critical_Rendering_Path/分析关键渲染路径性能){:target="_blank"}
+* [Constructing the Object Model](./Order_Loading_Thoughtfully/Critical_Rendering_Path/构建对象模型.md){:target="_blank"}
+* [关键渲染路径](./Order_Loading_Thoughtfully/Critical_Rendering_Path/关键渲染路径.md){:target="_blank"}
+* [评估关键渲染路径](./Order_Loading_Thoughtfully/Critical_Rendering_Path/评估关键渲染路径.md){:target="_blank"}
+* [优化关键渲染路径](./Order_Loading_Thoughtfully/Critical_Rendering_Path/优化关键渲染路径.md){:target="_blank"}
+* [PageSpeed Rules and Recommendations](./Order_Loading_Thoughtfully/Critical_Rendering_Path/PageSpeed规则和建议.md){:target="_blank"}
+* [阻塞渲染的 CSS](./Order_Loading_Thoughtfully/Critical_Rendering_Path/阻塞渲染的CSS.md){:target="_blank"}
+* [渲染树构建、布局及绘制](./Order_Loading_Thoughtfully/Critical_Rendering_Path/渲染树构建和布局及绘制.md){:target="_blank"}
+
+
+
+### Loading Performance
+
+* [Assessing Loading Performance in Real Life with Navigation and Resource Timing](./loading_performance/Assessing_Loading_Performance_with_Navigation_and_Resource_Timing.md){:target="_blank"}
+* [How To Think About Speed Tools](./loading_performance/如何考虑测速工具.md){:target="_blank"}
+* [Resource Prioritization – Getting the Browser to Help You](./loading_performance/资源优先级.md){:target="_blank"}
+* [PRPL 模式](./loading_performance/PRPL模式.md){:target="_blank"}
+* [Understanding Low Bandwidth and High Latency](./loading_performance/了解低宽带和高延迟.md){:target="_blank"}
+* [User-centric Performance Metrics](./loading_performance/用户角度的性能测量.md){:target="_blank"}
+* [Overview](./loading_performance/Overview.md){:target="_blank"}
